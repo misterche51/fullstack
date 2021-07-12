@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterche51/fullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterche51/fullstack/issues"
+  },
+  "homepage": "https://github.com/misterche51/fullstack#readme"
+}
